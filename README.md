@@ -1,7 +1,7 @@
 # ms-glmb-nuScenes
 Multi-sensor GLMB for nuScences dataset
 
-This is the official Python and C++ implementation repository for a paper entitled "3D Multi-Object Tracking Employing MS-GLMB Filter for Autonomous Driving", *2024 International Conference on Control, Automation and Information Sciences (ICCAIS) ([arXiv 2405.18606](http://arxiv.org/abs/2405.18606))*.
+This is the official Python and C++ implementation repository for a paper entitled "3D Multi-Object Tracking Employing MS-GLMB Filter for Autonomous Driving", *2024 International Conference on Control, Automation and Information Sciences (ICCAIS) ([arXiv 2410.14977](https://arxiv.org/pdf/2410.14977))*.
 
 
 ### News
